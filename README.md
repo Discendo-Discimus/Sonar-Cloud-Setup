@@ -1,1 +1,1 @@
-# Discendo-Discimus
+# Sonar Cloud Setup
